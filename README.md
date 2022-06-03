@@ -3,7 +3,7 @@
 
 - 🐱‍👤 Atuamente trabalho com front-end
 - 💻 Estudando back-end
-- 🏴‍☠️ Começando um projeto solo de sites estáticos, vulgo LegatumProject
+- 🏴‍☠️ Começando um projeto de sites estáticos, vulgo LegatumProject
 
 <div align="start">
   <a href="https://github.com/gabrieldzuman">
