@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Dzuman 🤟🏼
+### Olá, eu sou o Gabriel 🤟🏼
 
 
 - 🐱‍👤 Atuamente trabalho com front-end
