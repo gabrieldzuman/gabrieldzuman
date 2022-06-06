@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gabriel 🤟🏼
 
 
-- 🐱‍👤 Atuamente trabalho com front-end
+- 📲 Atuamente trabalho com front-end
 - 💻 Estudando back-end
 - 🏴‍☠️ Começando um projeto de sites estáticos, vulgo LegatumProject
 
