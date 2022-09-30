@@ -1,9 +1,9 @@
 ### Olá, eu sou o Gabriel 🤟🏼
 
 
-- 📲 Atuamente trabalho com front-end
-- 💻 Estudando back-end
-- 🏴‍☠️ Começando um projeto de sites estáticos, vulgo LegatumProject
+- 📲 Entusiasta da tecnologia
+- 💻 Atuamente trabalho com front e back
+- 🏴‍☠️ Dono de um projeto de sites estáticos, vulgo LegatumProject
 
 <div align="start">
   <a href="https://github.com/gabrieldzuman">
