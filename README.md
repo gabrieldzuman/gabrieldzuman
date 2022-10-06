@@ -3,7 +3,7 @@
 
 - 📲 Entusiasta da tecnologia
 - 💻 Atualmente trabalho com front e back
-- 🏴‍☠️ Dono de um projeto de sites estáticos, vulgo LegatumProject
+- 🏴‍☠️ Dono de um projeto de sites estilizados, vulgo LegatumProject
 
 <div align="start">
   <a href="https://github.com/gabrieldzuman">
