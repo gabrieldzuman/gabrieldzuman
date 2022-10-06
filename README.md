@@ -2,7 +2,7 @@
 
 
 - 📲 Entusiasta da tecnologia
-- 💻 Atuamente trabalho com front e back
+- 💻 Atualmente trabalho com front e back
 - 🏴‍☠️ Dono de um projeto de sites estáticos, vulgo LegatumProject
 
 <div align="start">
