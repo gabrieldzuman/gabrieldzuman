@@ -1,8 +1,8 @@
-### Olá, eu sou o Gabriel 🤟🏼
+### Hi, I'm Gabriel 🤟🏼
 
 
-- 📲 Entusiasta da tecnologia
-- 💻 Atualmente trabalho com Back e Front-End
+- 📲 Technology enthusiast
+- 💻 I currently work with Back-end and Front-End
 
 <div align="start">
   <a href="https://github.com/gabrieldzuman">
